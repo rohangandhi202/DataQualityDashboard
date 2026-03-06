@@ -130,6 +130,9 @@ brew services start grafana
 
 The dashboard includes three main panels:
 
+<img width="1418" height="751" alt="image" src="https://github.com/user-attachments/assets/05b6c625-0ec2-4006-a1c7-4776b94dded5" />
+
+
 #### Panel 1: Current Data Quality Score
 **Query:**
 **Visualization:** Stat (large number display)
